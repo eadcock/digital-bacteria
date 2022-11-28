@@ -93,10 +93,11 @@ public class CreatePlantMap : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         grid = GetComponent<Grid>();
 
-        if(plantMap == null)
+        if(plantMap == null || creatureMap == null)
         {
             GeneratePlantMap();
             GeneratePlantGrid();
+            GenerateCreatureMap();
             GeneratePlantProbabilityGrid();
         }
     }
