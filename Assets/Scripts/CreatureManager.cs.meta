@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 558e53c5cfe77444da98820931f19c92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - creaturePrefab: {fileID: 7097265883301012668, guid: 4788be025c3698648ac505f263c4fcd3, type: 3}
+  - bedPrefab: {fileID: 8580742525394295356, guid: b43b612743d4c8f48b31f3a2db8f9330, type: 3}
+  - plantPrefab: {fileID: 2571763157130097201, guid: 3a7c874086f8e9d438c89723699178f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
